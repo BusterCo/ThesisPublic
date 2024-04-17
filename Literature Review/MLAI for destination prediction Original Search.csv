@@ -1,0 +1,281 @@
+﻿Authors,Title,Year,DOI,Scopus,WOS,IEEE,Excluded
+She N.; Basketfield D.,long range forecast of streamflow using support vector machine,2005,10.1061/40792(173)481,X,,,X
+Raffy P.; Gaudeau Y.; Miller D.P.; Moureaux J.-M.; Castellino R.A.,computer-aided detection of solid lung nodules in lossy compressed multidetector computed tomography chest exams,2006,10.1016/j.acra.2006.06.004,X,,,X
+Costa G.; Manco G.; Ortale R.; Saccà D.; D'Atri A.; Za S.,logistics management in a mobile environment: a decision support system based on trajectory mining,2007,10.1109/ICONS.2007.33,X,,,X
+"Tegge, Allison (18038945000); Rodriguez-Zas, Sandra (7004076085); Sweedler, Jonathan V. (7102998068); Southey, Bruce (6602517708)",comparative analysis of binary logistic regression to artificial neural networks in predicting precursor sequence cleavage,2007,10.1109/BIBMW.2007.4425407,X,,,X
+"Asgary, Mehdi Poursheikhali (23018069900); Jahandideh, Samad (35583063000); Abdolmaleki, Parviz (15071532700); Kazemnejad, Anoshirvan (35585353200)",analysis and identification of β-turn types using multinomial logistic regression and artificial neural network,2007,10.1093/bioinformatics/btm324,X,,,X
+W. Afzal,using faults-slip-through metric as a predictor of fault-proneness,2010,10.1109/APSEC.2010.54,X,,X,X
+Mendoza M.; Marín M.; Ferrarotti F.; Poblete B.,learning to distribute queries into web search nodes,2010,10.1007/978-3-642-12275-0_26,X,,,X
+Davidoff S.; Ziebart B.D.; Zimmerman J.; Dey A.K.,learning patterns of pick-ups and drop-offs to support busy family coordination,2011,10.1145/1978942.1979119,X,,,
+"Phillips S.J., Elith J.",logistic methods for resource selection functions and presence-only species distribution models,2011,,X,,,X
+Wang J.; Li C.; Wang E.; Wang X.,an fpt approach for predicting protein localization from yeast genomic data,2011,10.1371/journal.pone.0014449,X,,,X
+"Perry, GLW; Wilmshurst, JM; McGlone, MS; Napier, A",reconstructing spatial vulnerability to forest loss by fire in pre-historic new zealand,2012,10.1111/j.1466-8238.2011.00745.x,,X,,X
+"Magnus, Marcin (55293811500); Pawlowski, Marcin (57198223662); Bujnicki, Janusz M. (7007165509)",metalocgramn: a meta-predictor of protein subcellular localization for gram-negative bacteria,2012,10.1016/j.bbapap.2012.05.018,X,,,X
+Liu F.; Janssens D.; Wets G.; Cools M.,annotating mobile phone location data with activity purposes using machine learning algorithms,2013,10.1016/j.eswa.2012.12.100,X,,,X
+Y. Hu; G. I. Allen,local-aggregate modeling for multi-subject neuroimage data via distributed optimization,2013,10.1109/PRNI.2013.60,,,X,X
+G. Carrozza; D. Cotroneo; R. Natella; R. Pietrantuono; S. Russo,analysis and prediction of mandelbugs in an industrial software system,2013,10.1109/ICST.2013.21,,,X,X
+Bradter U.; Kunin W.E.; Altringham J.D.; Thom T.J.; Benton T.G.,identifying appropriate spatial scales of predictors in species distribution models with the random forest algorithm,2013,10.1111/j.2041-210x.2012.00253.x,X,,,X
+"Tsai, Hung-Ji (57208784972); Baller, Joshua A. (46061844000); Liachko, Ivan (12040243600); Koren, Amnon (57206436505); Burrack, Laura S. (55126187700); Hickman, Meleah A. (20733805000); Thevandavakkam, Mathuravani A. (36634938500); Rusche, Laura N. (6602070204); Berman, Judith (7202774025)","origin replication complex binding, nucleosome depletion patterns, and a primary sequence motif can predict origins of replication in a genome with epigenetic centromeres",2014,10.1128/mBio.01703-14,X,,,X
+Dobrkovic A.; Iacob M.E.; Hillegersberg J.V.,using machine learning for unsupervised maritime waypoint discovery from streaming ais data,2015,10.1145/2809563.2809573,X,,,X
+E. L. Berz; D. A. Tesch; F. P. Hessel,rfid indoor localization based on support vector regression and k-means,2015,10.1109/ISIE.2015.7281681,,,X,X
+Omrani H.,predicting travel mode of individuals by machine learning,2015,10.1016/j.trpro.2015.09.037,X,,,X
+W. Yang; D. Hu; Y. Liu; S. Wang; T. Jiang,hard drive failure prediction using big data,2015,10.1109/SRDSW.2015.15,,,X,X
+Sousa C.J.N.; Santos I.H.F.; Almeida V.T.; Almeida A.R.; Silva G.M.; Ciarlini A.E.; Prado A.; Senra R.D.A.; Gottin V.; Bhaya A.; Calmon T.; Ferreira L.,applying big data analytics to logistics processes of oil and gas exploration and production through a hybrid modeling and simulation approach,2015,10.4043/26274-ms,X,,,X
+Navarro J.M.; Hugo A.P.G.; Dueñas J.C.,"classification in sparse, high dimensional environments applied to distributed systems failure prediction",2015,10.1007/978-3-319-19369-4_63,X,,,X
+Knoll D.; Prüglmeier M.; Reinhart G.,predicting future inbound logistics processes using machine learning,2016,10.1016/j.procir.2016.07.078,X,,,X
+Di Ciccio C.; van der Aa H.; Cabanillas C.; Mendling J.; Prescher J.,detecting flight trajectory anomalies and predicting diversions in freight transportation,2016,10.1016/j.dss.2016.05.004,X,,,X
+Raghunadha Reddy T.; Vishnu Vardhan B.; Vijayapal Reddy P.,author profile prediction using pivoted unique term normalization,2016,10.17485/ijst/2016/v9i46/99404,X,,,X
+"Di Ciccio C., Van Der Aa H., Cabanillas C., Mendling J., Prescher J.",detecting flight trajectory anomalies and predicting diversions in freight transportation (extended abstract),2016,,X,,,X
+H. Alves; B. Fonseca; N. Antunes,experimenting machine learning techniques to predict vulnerabilities,2016,10.1109/LADC.2016.32,,,X,X
+M. X. Cheng; W. B. Wu,data analytics for fault localization in complex networks,2016,10.1109/JIOT.2015.2503270,,,X,X
+A. Jahangiri; M. Elhenawy; H. Rakha; T. A. Dingus,investigating cyclist violations at signal-controlled intersections using naturalistic cycling data,2016,10.1109/ITSC.2016.7795977,,,X,X
+"Gal, A; Mandelbaum, A; Schnitzler, F; Senderovich, A; Weidlich, M",traveling time prediction in scheduled transportation with journey segments,2017,10.1016/j.is.2015.12.001,,X,,X
+Bununu Y.A.,integration of markov chain analysis and similarity-weighted instance-based machine learning algorithm (simweight) to simulate urban expansion,2017,10.1080/12265934.2017.1284607,X,,,X
+"Guo, J; Yang, CY",cloud-based machine learning for bus arrival time prediction,2017,,,X,,X
+Ermagun A.; Fan Y.; Wolfson J.; Adomavicius G.; Das K.,real-time trip purpose prediction using online location-based search and discovery services,2017,10.1016/j.trc.2017.01.020,X,,,X
+E. L. Berz; D. A. Tesch; F. P. Hessel,a hybrid rfid and cv system for item-level localization of stationary objects,2017,10.1109/ISQED.2017.7918337,,,X,X
+H. Qin; K. Riehle; H. Zhao,using google analytics to support cybersecurity forensics,2017,10.1109/BigData.2017.8258385,,,X,X
+D. D. Vu; G. Kaddoum,a waste city management system for smart cities applications,2017,10.1109/RTUWO.2017.8228538,,,X,X
+P. Tawde; S. Jaswal,optimization of scm process using evolutionary algorithm on svr,2017,10.1109/ICBDACI.2017.8070817,,,X,X
+A. Chouiekh; E. H. Ibn El Haj,machine learning techniques applied to prepaid subscribers: case study on the telecom industry of morocco,2017,10.1109/ISACV.2017.8054923,X,,X,X
+C. Chen; J. Zhou,data association via logistic regression model for multiple target tracking problems,2017,10.23919/ICIF.2017.8009733,,,X,X
+N. Theera-Ampornpunt; S. Chaterji,prediction of enhancer rna activity levels from chip-seq-derived histone modification combinatorial codes,2017,10.1109/BIBM.2017.8217829,,,X,X
+"Bai, XM; Zhang, FL; Hou, J; Xia, F; Tolba, A; Elashkar, E",implicit multi-feature learning for dynamic time series prediction of the impact of institutions,2017,10.1109/ACCESS.2017.2739179,,X,,X
+Nguyen V.; Phung D.; Le T.; Bui H.,discriminative bayesian nonparametric clustering,2017,10.24963/ijcai.2017/355,X,,,X
+"Bachar, M; Elimelech, G; Gat, I; Sobol, G; Rivetti, N; Gal, A","grand challenge: venilia, on-line learning and prediction of vessel destination",2018,10.1145/3210284.3220505,,X,,
+E. Zunic; H. Hasic; K. Hodzic; S. Delalic; A. Besirevic,predictive analysis based approach for optimal warehouse product positioning,2018,10.23919/MIPRO.2018.8400174,,,X,X
+"Kammoun, Abderrahmen and Raynaud, Tanguy and Gillani, Syed and Singh, Kamal and Fayolle, Jacques and Laforest, Frederique",grand challenge: a scalable framework for accelerating situation prediction over spatio-temporal event streams,2018,10.1145/3210284.3220508,,X,,X
+"Jiang, RH; Wang, ZN; Cai, ZK; Yang, C; Fan, ZP; Xia, TQ; Matsubara, G; Mizuseki, H; Song, X; Shibasaki, R",prediction of frost events using machine learning and iot sensing devices,2018,10.1109/JIOT.2018.2867333,X,,,X
+"Wang, B; Kim, I",short-term prediction for bike-sharing service using machine learning,2018,10.1016/j.trpro.2018.11.029,,X,,X
+"Kurt, Serkan (26634105600); Öz, Ersoy (36895155300); Aşkın, Öyküm Esra (57192503561); Öz, Yeliz Yücel (57103058500)",classification of nucleotide sequences for quality assessment using logistic regression and decision tree approaches,2018,10.1007/s00521-017-2960-5,X,,,X
+Xie Z.; Huang Y.-H.; Fang G.-Q.; Ren H.; Fang S.-Y.; Chen Y.; Hu J.,routenet: routability prediction for mixed-size designs using convolutional neural network,2018,10.1145/3240765.3240843,X,,,X
+Chang Wei Tan  and Geoffrey I. Webb  and Francois Petitjean  and Paul Reichl,tamping effectiveness prediction using supervised machine learning techniques,2018,,,X,,X
+Muskan; T. Khandelwal; M. Khandelwal; P. S. Pandey,women safety device designed using iot and machine learning,2018,10.1109/SmartWorld.2018.00210,X,,X,X
+Shoemaker K.T.; Heffelfinger L.J.; Jackson N.J.; Blum M.E.; Wasley T.; Stewart K.M.,a machine-learning approach for extending classical wildlife resource selection analyses,2018,10.1002/ece3.3936,X,,,X
+"Ding, Chuan (52663583200); Cao, Xinyu (57999339800); Wang, Yunpeng (36607259500)",synergistic effects of the built environment and commuting programs on commute mode choice,2018,10.1016/j.tra.2018.08.041,X,,,X
+"Moyo, Sangiwe (58339177100); Doan, Tuan Nguyen (57205076412); Yun, Jessica Ann (57195724362); Tshuma, Ndumiso (36461869100)",application of machine learning models in predicting length of stay among healthcare workers in underserved communities in south africa,2018,10.1186/s12960-018-0329-1,X,,,X
+"Liu, Yichuan (36241951000); Ayaz, Hasan (6507639765)",speech recognition via fnirs based brain signals,2018,10.3389/fnins.2018.00695,X,,,X
+Varble N.; Tutino V.M.; Yu J.; Sonig A.; Siddiqui A.H.; Davies J.M.; Meng H.,shared and distinct rupture discriminants of small and large intracranial aneurysms,2018,10.1161/STROKEAHA.117.019929,X,,,X
+Zhao B.; Teo Y.S.; Ng W.S.; Ng H.H.,data-driven next destination prediction and eta improvement for urban delivery fleets,2019,10.1049/iet-its.2019.0148,X,X,,
+"Kadri, N; Ellouze, A; Turki, S; Ksantini, M",an ensemble classification approach for prediction of user's next location based on twitter data,2019,10.1007/s12652-018-1134-3,,X,,
+"Kumar, S; Nezhurina, MI",predicting ride-hailing service demand via rpa-lstm,2019,10.1109/TVT.2019.2901284,,X,,
+D. Luan; Y. Yang; E. Wang; Q. Zeng; Z. Li; L. Zhou,an efficient target tracking approach through mobile crowdsensing,2019,10.1109/ACCESS.2019.2932049,,,X,
+"Kammoun, A; Raynaud, T; Gillani, S; Singh, K; Fayolle, J; Laforest, F","short-term travel behavior prediction with gps, land use, and point of interest data",2019,10.1016/j.trb.2018.06.012,,X,,X
+"To, D; Si, D; Chen, Y",traveler's next activity predication with location-based social network data,2019,10.1145/3356995.3364540,,X,,X
+"To, D; Si, D; Chen, Y",mobile subscriber mobility analytics and prediction in wireless networks using machine learning techniques,2019,,X,,,X
+"Nikulchev, E; Chervyakov, A",climate seasonality as an essential predictor of global fire activity,2019,10.1111/geb.12836,,X,,X
+"Parto, M; Han, DM; Rauby, P; Ye, C; Zhou, YL; Chau, DH; Kurfess, T",a cloud-based machine vision approach for utilization prediction of manual machine tools,2019,10.1520/SSMS20190019,,X,,X
+K. Li; X. Lu; Y. Wang,quantitative relationship model of express service network and service facilities in beijing,2019,10.1109/SMC.2019.8914051,,,X,X
+Saqlain M.; Jargalsaikhan B.; Lee J.Y.,a voting ensemble classifier for wafer map defect patterns identification in semiconductor manufacturing,2019,10.1109/TSM.2019.2904306,X,,,X
+S. Acharya; W. M. Mongan; I. Rasheed; Y. Liu; E. Anday; G. Dion; A. Fontecchio; T. Kurzweg; K. R. Dandekar,ensemble learning approach via kalman filtering for a passive wearable respiratory monitor,2019,10.1109/JBHI.2018.2857924,X,,X,X
+V. Priyashman; W. Ismail,signal strength and read rate prediction modeling using machine learning algorithms for vehicular access control and identification,2019,10.1109/JSEN.2018.2880736,X,,X,X
+M. A. Islam; R. Srikant; S. Basu,micro-browsing models for search snippets,2019,10.1109/ICDE.2019.00206,,,X,X
+Karimzadeh S.; Matsuoka M.; Kuang J.; Ge L.,spatial prediction of aftershocks triggered by a major earthquake: a binary machine learning perspective,2019,10.3390/ijgi8110517,X,,,X
+J. Jang; H. G. Yoon; J. C. Kim; C. O. Kim,adaptive weapon-to-target assignment model based on the real-time prediction of hit probability,2019,10.1109/ACCESS.2019.2919794,,,X,X
+"Matijosaitiene, Irina (36185733900); Zhao, Peng (57205694871); Jaume, Sylvain (57205693737); Gilkey, Joseph W. (57205690728)",prediction of hourly effect of land use on crime,2019,10.3390/ijgi8010016,X,,,X
+"Bui, Dieu Tien (54400192000); Shirzadi, Ataollah (57209036611); Shahabi, Himan (57213611082); Chapi, Kamran (55345306000); Omidavr, Ebrahim (57209236070); Pham, Binh Thai (57021167000); Asl, Dawood Talebpour (57210430199); Khaledian, Hossein (57195732665); Pradhan, Biswajeet (12753037900); Panahi, Mahdi (57193681013); Bin Ahmad, Baharin (57200396714); Rahmani, Hosein (57033773100); Gróf, Gyula (8952872200); Lee, Saro (7601413342)",a novel ensemble artificial intelligence approach for gully erosion mapping in a semi-arid watershed (iran),2019,10.3390/s19112444,X,,,X
+De Clercq D.; Jalota D.; Shang R.; Ni K.; Zhang Z.; Khan A.; Wen Z.; Caicedo L.; Yuan K.,machine learning powered software for accurate prediction of biogas production: a case study on industrial-scale chinese production data,2019,10.1016/j.jclepro.2019.01.031,X,,,X
+Zhang M.; Han N.; Lobo B.J.,understanding and predicting drivers' seatbelt usage in crashes in virginia,2019,10.1109/SIEDS.2019.8735635,X,,,X
+Gaba A.; Jana A.; Subramaniam R.; Agrawal Y.; Meleet M.,analysis and prediction of earthquake impact-a machine learning approach,2019,10.1109/CSITSS47250.2019.9031026,X,,,X
+Addison P.; Oommen T.; Sha Q.,assessment of post-wildfire debris flow occurrence using classifier tree,2019,10.1080/19475705.2018.1530306,X,,,X
+Flynn T.; van Zijl G.; van Tol J.; Botha C.; Rozanov A.; Warr B.; Clarke C.,comparing algorithms to disaggregate complex soil polygons in contrasting environments,2019,10.1016/j.geoderma.2019.06.013,X,,,X
+Shitole A.S.; Devare M.H.,"tpr, ppv and roc based performance measurement and optimization of human face recognition of iot enabled physical location monitoring",2019,10.35940/ijrte.B3186.078219,X,,,X
+S. Krishnan; B. Zhou,predicting crime scene location details for first responders,2020,10.1109/ISDFS49300.2020.9116386,,,X,
+T. MartinÄiÄ; D. Å tepec; J. P. Costa; K. ÄŒagran; A. Chaldeakis,vessel and port efficiency metrics through validated ais data,2020,10.1109/IEEECONF38699.2020.9389112,,,X,X
+Dasika A.K.; Paruchuri P.,an ensemble learning approach to improve tracking accuracy of multi sensor fusion,2020,10.1007/978-3-030-63823-8_80,X,,,X
+"Sengupta, S; Garcia, J; Masip-Bruin, X",collaborative learning-based schema for predicting resource usage and performance in f2c paradigm,2020,10.1109/ANTS50601.2020.9342805,,X,,X
+"Sengupta, S; Garcia, J; Masip-Bruin, X",impact of prediction errors on high throughput predictive resource allocation,2020,10.1109/TVT.2020.3004552,,X,,X
+Chaudhary S.; Johari R.,oruml: optimized routing in wireless networks using machine learning,2020,10.1002/dac.4394,X,,,X
+Hathikal S.; Chung S.H.; Karczewski M.,prediction of ocean import shipment lead time using machine learning methods,2020,10.1007/s42452-020-2951-5,X,,,X
+Kumari A.; Chhabra C.; Singh S.,future location prediction of a mobile user using historic visiting patterns,2020,10.1109/Confluence47617.2020.9058084,X,X,,X
+"Chandak, MB",provisioning of optimized cab services in secured blockchain framework,2020,10.21786/bbrc/13.14/62,,X,,X
+Shokoohyar S.; Sobhani A.; Sobhani A.,determinants of rental strategy: short-term vs long-term rental strategy,2020,10.1108/IJCHM-03-2020-0185,X,,,X
+M. Kumar; M. Rawat; P. G. Shambharkar,localization of user in an indoor environment using machine learning classification models,2020,10.1109/ICICCS48265.2020.9121134,X,,X,X
+B. Zhu; W. Tang; X. Mao; W. Yang,location-based hybrid deep learning model for purchase prediction,2020,10.1109/ICCIA49625.2020.00038,,,X,X
+"Han, N; Qiao, SJ; Yuan, G; Mao, R; Yue, K; Yuan, CA",a novel handover detection model via frequent trajectory patterns mining,2020,10.1007/s13042-020-01126-2,,X,,X
+Xu D.; Qiao S.; Yang X.; Zhang D.; Yao Z.; Du X.; Shi Y.; Wang Y.; Zhang Z.; Lu J.; Jin J.; Chen H.; Yao X.,dynamic pricing strategy for logistics revenue management using data mining technology,2020,10.1145/3440084.3441183,X,,,X
+Elgui K.; Bianchi P.; Isson O.; Portier F.; Marty R.,metric learning for fingerprint rssi-localization,2020,10.1109/PLANS46316.2020.9110145,X,,,X
+Akkaya A.V.,coal higher heating value prediction using constituents of proximate analysis: gaussian process regression model,2020,10.1080/19392699.2020.1786374,X,,,X
+S. P. Singh; P. Singh; A. Mishra,predicting potential applicants for any private college using lightgbm,2020,10.1109/ICITIIT49094.2020.9071525,,,X,X
+Sobnath D.; Kaduk T.; Rehman I.U.; Isiaq O.,feature selection for uk disabled students' engagement post higher education: a machine learning approach for a predictive employment model,2020,10.1109/ACCESS.2020.3018663,X,,,X
+Hoseinzadeh N.; Liu Y.; Han L.D.; Brakewood C.; Mohammadnazar A.,"quality of location-based crowdsourced speed data on surface streets: a case study of waze and bluetooth speed data in sevierville, tn",2020,10.1016/j.compenvurbsys.2020.101518,X,,,X
+Taşabat S.E.; Özçay T.; Sertbaş S.; Akca E.,industry 4.0 application on diagnosis prediction of construction machinery: a new model approach,2020,10.13189/cea.2020.080402,X,,,X
+Li T.; Xia Q.; Zhao M.; Gui Z.; Leng S.,"prospectivity mapping for tungsten polymetallic mineral resources, nanling metallogenic belt, south china: use of random forest algorithm from a perspective of data imbalance",2020,10.1007/s11053-019-09564-8,X,,,X
+Huang L.; Xu C.; Yang W.; Yu R.,a machine learning framework to determine geolocations from metagenomic profiling,2020,10.1186/s13062-020-00278-z,X,,,X
+I. Kaur; J. Kaur,customer churn analysis and prediction in banking industry using machine learning,2020,10.1109/PDGC50313.2020.9315761,,,X,X
+"Feng J., Sevgili Ö., Remus S., Ruppert E., Biemann C.",supervised pun detection and location with feature engineering and logistic regression,2020,,X,,,X
+"Lodi, A; Mossina, L; Rachelson, E",learning to handle parameter perturbations in combinatorial optimization: an application to facility location,2020,10.1016/j.ejtl.2020.100023,,X,,X
+T. Rizwan; Y. Cai; M. Ahsan; N. Sohail; E. A. Nasr; H. A. Mahmoud,neural network approach for 2-dimension person pose estimation with encoded mask and keypoint detection,2020,10.1109/ACCESS.2020.3001473,,,X,X
+"Wong, Kai On (57102323700); Zaïane, Osmar R. (6602849837); Davis, Faith G. (57052192100); Yasui, Yutaka (7102135927)",a machine learning approach to predict ethnicity using personal name and census location in canada,2020,10.1371/journal.pone.0241239,X,,,X
+"Kaasalainen S., Mäkela M., Ruotsalainen L., Malmivirta T., Fordell T., Hanhijärvi K., Wallin A., Lindvall T., Nikolskiy S., Olkkonen M.-K., Rantanen J., Lahtinen S., Zahidul H. Bhuiyan M., Koivula H.",reason - resilience and security of geospatial data for critical infrastructures,2020,,X,,,X
+Arabameri A.; Chen W.; Blaschke T.; Tiefenbacher J.P.; Pradhan B.; Bui D.T.,gully head-cut distribution modeling using machine learning methods-a case study of n.w. iran,2020,10.3390/w12010016,X,,,X
+Weng L.,fresh agricultural products cold chain location selection in context of big data,2020,10.1088/1742-6596/1631/1/012122,X,,,X
+Gumus O.; Yasar E.; Gumus Z.P.; Ertas H.,comparison of different classification algorithms to identify geographic origins of olive oils,2020,10.1007/s13197-019-04189-4,X,,,X
+M. -D. Pop; O. ProÅŸtean; G. ProÅŸtean,minimax strategy for lane choice prediction in markovian traffic modeling,2020,10.1109/GOL49479.2020.9314764,,,X,X
+Makeeva E.; Sinilshchikova M.,news sentiment in bankruptcy prediction models: evidence from russian retail companies,2020,10.17323/j.jcfr.2073-0438.14.4.2020.7-18,X,,,X
+"Zhang, Zhipeng & Zhou, Kang & Liu, Xiang.",probabilistic risk analysis of broken rail-caused train derailments,2020,,,X,,X
+M. Golagha; A. Pretschner; L. C. Briand,can we predict the quality of spectrum-based fault localization?,2020,10.1109/ICST46399.2020.00012,,,X,X
+H. Wen; Y. Lin; F. Wu; H. Wan; S. Guo; L. Wu; C. Song; Y. Xu,package pick-up route prediction via modeling couriers’ spatial-temporal behaviors,2021,10.1109/ICDE51399.2021.00214,,,X,
+"Borchers P., Lisiecki D., Eschemann P., Feeken L., Hajnorouzi M., Stierand I.",comparison of production dynamics prediction methods to increase context awareness for industrial transport systems,2021,,X,,,X
+"El Mekkaoui, S; Benabbou, L; Berrado, A",predicting vessel speed in the arctic without knowing ice conditions using ais data and decision trees,2021,10.1016/j.martra.2021.100024,,X,,X
+Cankaya B.; Eren Tokgoz B.; Dag A.; Santosh K.C.,development of a machine-learning-based decision support mechanism for predicting chemical tanker cleaning activity,2021,10.1108/JM2-12-2019-0284,X,,,X
+"Wang, Shuaiqi (57764988100)",artificial intelligence applications in the new model of logistics development based on wireless communication technology,2021,10.1155/2021/5166993,X,,,X
+Berns F.; Ramsdorf T.; Beecks C.,machine learning for storage location prediction in industrial high bay warehouses,2021,10.1007/978-3-030-68799-1_47,X,,,X
+"Jiang, RH; Wang, ZN; Cai, ZK; Yang, C; Fan, ZP; Xia, TQ; Matsubara, G; Mizuseki, H; Song, X; Shibasaki, R",countrywide origin-destination matrix prediction and its application for covid-19,2021,10.1007/978-3-030-86514-6_20,,X,,X
+"Balamurugan, MS; Manojkumar, R",study of short term rain forecasting using machine learning based approach,2021,10.1007/s11276-019-02168-3,,X,,X
+D. D. Dhananjaya; T. Sivakumar,inferring the purposes of taxi trips using gps and poi data considering the destination context,2021,10.1109/ICDABI53623.2021.9655943,,,X,X
+Tang Y.; Li Z.; Nellikkal M.A.N.; Eramian H.; Chan E.M.; Norquist A.J.; Hsu D.F.; Schrier J.,improving data and prediction quality of high-throughput perovskite synthesis with model fusion,2021,10.1021/acs.jcim.0c01307,X,,,X
+"Chandak, MB",a neural network model for quality prediction in the automotive industry,2021,10.1007/978-3-030-85914-5_60,,X,,X
+Şahin M.,a comparative analysis of dropout prediction in massive open online courses,2021,10.1007/s13369-020-05127-9,X,,,X
+"Tao, DD; Zhang, DY; Hu, RF; Rundensteiner, E; Feng, H",crowdsourcing and machine learning approaches for extracting entities indicating potential foodborne outbreaks from social media,2021,10.1038/s41598-021-00766-w,,X,,X
+B. Zhang,hurricane damage detection using convolutional neural network and customized knn,2021,10.1109/ICAICE54393.2021.00099,,,X,X
+Kaushik B.; Daphal P.; Khare P.; Koralla S.; Bera S.,pedestrian safety performance prediction using machine learning techniques,2021,10.4271/2021-26-0026,X,,,X
+A. Nguyen; B. Xie,human arm motion prediction in reaching movements,2021,10.1109/RO-MAN50785.2021.9515461,,,X,X
+Dai X.; Chen M.; Zhou Y.,optimal logistics transportation and route planning based on fpga processor real-time system and machine learning,2021,10.1016/j.micpro.2020.103621,X,,,X
+Y. Liu; J. Guo; J. Dong; L. Jiang; H. Ouyang,priority prediction of asian hornet sighting report using machine learning methods,2021,10.1109/SEAI52285.2021.9477549,X,,X,X
+H. A. Ahmed; N. Z. Bawany; J. A. Shamsi,capbug-a framework for automatic bug categorization and prioritization using nlp and machine learning algorithms,2021,10.1109/ACCESS.2021.3069248,,,X,X
+Deshpande T.S.; Varghese S.; Kale P.D.; Atre M.P.,"incident classification, prediction of location and casualties",2021,10.1109/INDIACom51348.2021.00139,X,,,X
+W. Yi; D. A. Adjeroh,a deep learning approach to lncrna subcellular localization using inexact q-mers,2021,10.1109/BIBM52615.2021.9669409,,,X,X
+Zhang L.; Yang L.; Ma T.; Shen F.; Cai Y.; Zhou C.,a self-training semi-supervised machine learning method for predictive mapping of soil classes with limited sample data,2021,10.1016/j.geoderma.2020.114809,X,,,X
+K. Salakhutdinova; I. Kim; I. Viksnin; V. Belyaev; N. Tursukov; E. Neverov; I. Krivtsova,machine learning based prediction method of pollution concentration in the atmosphere,2021,10.1109/MetroInd4.0IoT51437.2021.9488515,,,X,X
+Kurban H.; Kurban M.,building machine learning systems for multi-atoms structures: ch3nh3pbi3 perovskite nanoparticles,2021,10.1016/j.commatsci.2021.110490,X,,,X
+J. M. Lozano DomÃ­nguez; F. Al-Tam; T. d. J. M. Sanguino; N. Correia,vehicle detection system for smart crosswalks using sensors and machine learning,2021,10.1109/SSD52085.2021.9429473,,,X,X
+N. Patel; D. Cancel; M. Chatterjee; M. S. Rahman,covid-19 digital contact-tracing: a doorway to well-being or a backdoor to security vulnerabilities?,2021,10.1109/BigData52589.2021.9671880,,,X,X
+Kalin J.; Noever D.; Ciolino M.; Hernandez G.; Coquat J.,using unstructured text narratives to correct work unit codes in the wild from collection to decision,2021,10.2514/6.2021-2958,X,,,X
+N. Nafi'iyah; K. F. Mauladi,linear regression analysis and svr in predicting motor vehicle theft,2021,10.1109/iSemantic52711.2021.9573225,X,,X,X
+Wong L.N.Y.; Zhou Y.,boulder falls in hong kong — insights from power law relationships and supervised machine learning,2021,10.1007/s10346-021-01696-4,X,,,X
+A. Lakshna; K. Ramesh; B. Prabha; D. Sheema; K. Vijayakumar,machine learning smart traffic prediction and congestion reduction,2021,10.1109/ICSES52305.2021.9633949,X,,X,X
+Herich D.; Vaščák J.; Zolotová I.; Brecko A.,automatic path planning offloading mechanism in edge-enabled environments,2021,10.3390/math9233117,X,,,X
+S. Kaushik; K. Tripathi; R. Gupta; P. Mahajan,futuristic analysis of machine learning based routing protocols in wireless ad hoc networks,2021,10.1109/CCICT53244.2021.00067,,,X,X
+F. Kellner; N. SchrÃ¶der,location planning & analysis using uncertain data,2021,10.1109/DASA53625.2021.9682323,,,X,X
+Ibrar M.; Wang L.; Muntean G.-M.; Akbar A.; Shah N.; Malik K.R.,prepass-flow: a machine learning based technique to minimize acl policy violation due to links failure in hybrid sdn,2021,10.1016/j.comnet.2020.107706,X,,,X
+Xiong Y.; Zuo R.,a positive and unlabeled learning algorithm for mineral prospectivity mapping,2021,10.1016/j.cageo.2020.104667,X,,,X
+S. PitkÃ¤niemi; M. Routimo; J. Kukkola; V. Pirsto; E. Pouresmaeil,an approach utilizing converters for locating faults in lv distribution grids,2021,10.23919/EPE21ECCEEurope50061.2021.9570488,X,,X,X
+Y. Liu; N. Chen; C. Yang; H. Ji,error analysis of kalman filter applied to phased array antenna alignment,2021,10.1109/IAI53119.2021.9619235,,,X,X
+Bryce R.; Ueno R.; McDonald C.; Calitoiu D.,tailored military recruitment through machine learning algorithms,2021,10.5220/0010506500870092,X,,,X
+Lee J.; Shi Y.R.; Cai C.; Ciren P.; Wang J.; Gangopadhyay A.; Zhang Z.,machine learning based algorithms for global dust aerosol detection from satellite images: inter-comparisons and evaluation,2021,10.3390/rs13030456,X,,,X
+Tang C.; Uriarte M.; Jin H.; C. Morton D.; Zheng T.,"large-scale, image-based tree species mapping in a tropical forest using artificial perceptual learning",2021,10.1111/2041-210X.13549,X,,,X
+"Abdullahi, Akibu and Usmani, Raja Sher Afgun and Ramiah Pillai, Thulasyammal and Hashem, Ibrahim and Marjani, Mohsen",feature engineering algorithms for traffic dataset,2021,,,X,,X
+Bitter N.Q.; Ehleringer J.R.,machine learning prediction of mortality in the common desert shrub encelia farinosa,2021,10.1016/j.ecoinf.2021.101376,X,,,X
+J. Simonoff; J. Berger; A. Abdulali; O. Lerner; L. D. Rodriguez; P. Fink,intra-spacecraft rfid localization,2021,10.1109/RFID52461.2021.9444373,,,X,X
+Wali B.; Khattak A.J.; Ahmad N.,injury severity analysis of pedestrian and bicyclist trespassing crashes at non-crossings: a hybrid predictive text analytics and heterogeneity-based statistical modeling approach,2021,10.1016/j.aap.2020.105835,X,,,X
+Steinauer N.; Zhang K.; Guo C.; Zhang J.,"computational modeling of gene-specific transcriptional repression, activation and chromatin interactions in leukemogenesis by lasso-regularized logistic regression",2021,10.1109/TCBB.2021.3078128,X,,,X
+Bang C.S.; Ahn J.Y.; Kim J.-H.; Kim Y.Il.; Choi IlJ.; Shin W.G.,establishing machine learning models to predict curative resection in early gastric cancer with undifferentiated histology: development and usability study,2021,10.2196/25053,X,,,X
+C. Setianingsih; M. A. Murti; A. A. Wicaksono; R. E. Saputra; D. B. Pangestu,earthquake disaster mitigation based on peak ground acceleration with multi-sensor system,2021,10.1109/IoTaIS53735.2021.9628464,,,X,X
+Schaarsberg F.L.H.K.; de Niet A.C.; Zandberg H.; Dijkgraaf G.J.,investigating the relationship between train speed and ground vibrations using random forest machine learning models,2021,10.3397/IN2021-2463,X,,,X
+Gouareb R.; Can F.; Ferdowsi S.; Teodoro D.,vessel destination prediction using a graph-based machine learning model,2022,10.1007/978-3-030-97240-0_7,X,,,
+B. Mo; Z. Zhao; H. N. Koutsopoulos; J. Zhao,individual mobility prediction in mass transit systems using smart card data: an interpretable activity-based hidden markov approach,2022,10.1109/TITS.2021.3109428,,,X,
+"Kadri, N; Ellouze, A; Turki, S; Ksantini, M",an augmented ucal model for predicting trajectory and location,2022,10.2478/cait-2022-0020,,X,,
+Mishra A.; Dasgupta A.,supervised and unsupervised machine learning algorithms for forecasting the fracture location in dissimilar friction-stir-welded joints,2022,10.3390/forecast4040043,X,,,X
+El Mekkaoui S.; Benabbou L.; Berrado A.,machine learning models for efficient port terminal operations: case of vessels' arrival times prediction,2022,10.1016/j.ifacol.2022.10.217,X,X,,X
+"Dasika A.K., Paruchuri P.",cb+nn ensemble to improve tracking accuracy in air surveillance,2022,,X,,,X
+Mahajan P.C.; Kiwelekar A.W.; Netak L.D.; Ghodake A.B.,predicting expected time of arrival of shipments through multiple linear regression,2022,10.1007/978-981-16-3690-5_30,X,,,X
+"Shafiei, S; Mihaita, AS; Nguyen, H; Cai, C",integrating data-driven and simulation models to predict traffic state affected by road incidents,2022,10.1080/19427867.2021.1916284,,X,,X
+S. Duan; F. Lyu; J. Ren; Y. Wang; P. Yang; D. Zhang; Y. Zhang,multitype highway mobility analytics for efficient learning model design: a case of station traffic prediction,2022,10.1109/TITS.2022.3169068,,,X,X
+Y. Sun; L. Fu,stacking ensemble learning for non-line-of-sight detection of global navigation satellite system,2022,10.1109/TIM.2022.3170985,X,,X,X
+Cao K.,a machine learning-based approach to railway logistics transport path optimization,2022,10.1155/2022/1691215,X,,,X
+Pineda-Jaramillo J.; Arbeláez-Arenas Ó.,assessing the performance of gradient-boosting models for predicting the travel mode choice using household survey data,2022,10.1061/(ASCE)UP.1943-5444.0000830,X,,,X
+"Kumari, A; Chhabra, C; Singh, S",signalized arterial origin-destination flow estimation using flawed vehicle trajectories: a self-supervised learning approach without ground truth,2022,10.1016/j.trc.2022.103917,,X,,X
+"Wang, B; Kim, I",markowitz mean-variance portfolio optimization with predictive stock selection using machine learning,2022,10.3390/ijfs10030064,,X,,X
+Magnana L.; Rivano H.; Chiabaut N.,implicit gps-based bicycle route choice model using clustering methods and a lstm network,2022,10.1371/journal.pone.0264196,X,,,X
+"Imen, G; Halima, G; Ayoub, K; Djamel, A",a predictive-proactive approach for slot management of a loading facility with truck eta information,2022,10.3389/ffutr.2022.815267,,X,,X
+"Ren, SY; He, LG; Li, JY; Chen, ZY; Jiang, P; Li, CT",contention-aware prediction for performance impact of task co-running in multicore computers,2022,10.1007/s11276-018-01902-7,,X,,X
+J. Sun; C. Li; Y. Song,network security situation prediction based on ccqpso-bilstm,2022,10.1109/ICICML57342.2022.10009708,,,X,X
+Sarder A.; Raihan M.; Hassan M.M.; Alvi N.; Rabbi M.M.H.; Mirja H.,human activity recognition using time series and machine learning techniques,2022,10.1145/3542954.3543011,X,,,X
+K. Horita; B. Yang; T. Carette; M. Jimbo; A. Nakao,optimal network selection method using federated learning to achieve large-scale learning while preserving privacy,2022,10.1109/CloudNet55617.2022.9978891,,,X,X
+"Kail, R; Burnaev, E; Zaytsev, A",recurrent convolutional neural networks help to predict location of earthquakes,2022,10.1109/LGRS.2021.3107998,,X,,X
+"Naseri, Hamed (57211413091); Waygood, Edward Owen Douglas (35390098200); Wang, Bobin (57221064190); Patterson, Zachary (23020027200)",application of machine learning to child mode choice with a novel technique to optimize hyperparameters,2022,10.3390/ijerph192416844,X,,,X
+"Khoei, T. Talaei (55984408700); Gasimova, A. (57212215320); Ahajjam, M.A. (58828808200); Shamaileh, K. Al (37113626900); Devabhaktuni, V. (6602156750); Kaabouch, N. (22634156500)",a comparative analysis of supervised and unsupervised models for detecting gps spoofing attack on uavs,2022,10.1109/eIT53891.2022.9813826,X,,,X
+Sadana P.; Munnuru D.,machine learning model to predict work force attrition,2022,10.1007/978-981-16-6407-6_33,X,,,X
+S. Gupta; J. Agarwal,machine learning approaches for student performance prediction,2022,10.1109/ICRITO56286.2022.9964821,X,,X,X
+Chai S.S.; Goh K.L.; Cheah W.L.; Chang Y.H.R.; Ng G.W.,hypertension prediction in adolescents using anthropometric measurements: do machine learning models perform equally well?,2022,10.3390/app12031600,X,,,X
+"Sakya, Gayatri (55786972300); Shukla, Akash (58080104000); Kumar, Aniket (58367205300); Kumar, Vineet (58266386300)",wsn based intelligent coal mine monitoring using machine learning,2022,10.1109/ICSC56524.2022.10009616,X,,,X
+Vedat K.; Eldred M.; Thatcher J.; Rehman A.; Anjum H.,reducing offshore logistics emissions through artificial intelligence,2022,10.4043/32051-MS,X,,,X
+Gopane S.; Kotecha R.,enhancing monitoring in online exams using artificial intelligence,2022,10.1007/978-981-16-5348-3_14,X,,,X
+Hussain F.S.; Aljuboori A.F.,a crime data analysis of prediction based on classification approaches; [تحليل بيانات الجريمة للتنبؤ بناءً على مناهج التصنيف],2022,10.21123/bsj.2022.6310,X,,,X
+Hsu C.-R.; Kuo C.-J.; Shao B.-H.; Lo N.-C.; Huang K.-Y.,challenges in designing workflows for establishing species distribution models of invasive alien plant,2022,10.1109/IGARSS46834.2022.9884660,X,,,X
+"Zanetti, M; Allegri, E; Sperotto, A; Torresan, S; Critto, A",spatio-temporal cross-validation to predict pluvial flood events in the metropolitan city of venice,2022,10.1016/j.jhydrol.2022.128150,,X,,X
+Huang Z.,logistic regression in rental price and room type prediction based on airbnb open dataset,2022,10.1145/3537693.3537732,X,,,X
+H. Wu; P. Wang,node selection toward faster convergence for federated learning on non-iid data,2022,10.1109/TNSE.2022.3146399,,,X,X
+Joseph M.; Sood K.; Shen T.,covid-19 epidemic forecast using machine learning regression techniques,2022,10.1109/SmartNets55823.2022.9994020,X,,,X
+"Yao, Yingying (57222495332); Zhang, Shengli (35757189000); Xue, Tian (57218166247)",integrating lasso feature selection and soft voting classifier to identify origins of replication sites,2022,10.2174/1389202923666220214122506,X,,,X
+S. Horovitz; I. Zexer; B. Ganot,uavdome - safe uav transportation,2022,10.1109/ICITE56321.2022.10101441,,,X,X
+"Rohit Jadhav , Rajesh Patil , Akshay Diwan , S. M. Rathod and Ajay Sharma",drone based object detection using ai,2022,10.1109/ICoNSIP49665.2022.10007476,,,X,X
+"Al-Haddad, Luttfi Ahmed (58122086800); Jaber, Alaa Abdulhady (56594680500)",an intelligent quadcopter unbalance classification method based on stochastic gradient descent logistic regression,2022,10.1109/IT-ELA57378.2022.10107922,X,,,X
+S. M. S; S. P. Shankar; H. J. B. J; L. L. Narayana; N. Gumalla,car crash detection system using machine learning and deep learning algorithm,2022,10.1109/ICDSIS55133.2022.9915889,,,X,X
+Mishra S.K.; Singh K.; Kumar P.; Kumar R.,use of 3d coronal and sagittal images to improve the diagnosis of brain tumor,2022,10.1149/10701.0171ecst,X,,,X
+Soumya T.R.; Ramesh P.; Rosy N.A.; Pughazendi N.; Padmapriya S.; Khilar R.,logistic regression based machine learning technique for phishing website detection,2022,10.1109/ICIRCA54612.2022.9985643,X,,,X
+A. Khare; K. Mani,prediction of rock and mineral from sound navigation and ranging waves using artificial intelligence techniques,2022,10.1109/ICAISS55157.2022.10011104,X,,X,X
+M. C. El Rai; S. A. Hadi; H. A. Damis; A. Gawanmeh,prediction of electric vehicle charging stations distribution using machine learning,2022,10.1109/ICSPIS57063.2022.10002556,,,X,X
+M. Phadke; A. Bhattacharya; M. Shethia; S. Shah,feedback based telecom churn prediction using machine learning,2022,10.1109/ICAST55766.2022.10039530,,,X,X
+T. Reimer; S. Pistorius,the diagnostic performance of machine learning in breast microwave sensing on an experimental dataset,2022,10.1109/JERM.2021.3076100,,,X,X
+B. Zheng; J. Chen; T. Tang; M. Han; J. Tang; X. Huang,predictive modelling of traffic delay in arterial road based on machine learning algorithm,2022,10.1109/CAC57257.2022.10056046,,,X,X
+"Wilinski, A; Sochanowski, M; Nowicki, W",an investment strategy based on the first derivative of the moving averages difference with parameters adapted by machine learning,2022,10.3934/DSFE.2022005,,X,,X
+S. Kumar; V. Jagannath; P. Visalakshi,quantifying shot quality and predicting the goal probability for football shots,2022,10.1109/ASIANCON55314.2022.9909068,,,X,X
+Matuszelański K.; Kopczewska K.,customer churn in retail e-commerce business: spatial and machine learning approach,2022,10.3390/jtaer17010009,X,,,X
+Yang R.; Hui D.; Li X.; Wang K.; Li C.; Li Z.,prediction of single pulmonary nodule growth by ct radiomics and clinical features — a one-year follow-up study,2022,10.3389/fonc.2022.1034817,X,,,X
+Fang W.; Zhang G.; Yu Y.; Chen H.; Liu H.,identification of pathological subtypes of early lung adenocarcinoma based on artificial intelligence parameters and ct signs,2022,10.1042/BSR20212416,X,,,X
+N. B. C. R; H. S; T. Sulthan Shaik,next poilp: next point of interest location prediction using machine learning,2023,10.1109/NMITCON58196.2023.10275856,X,,X,
+"Nakashima, M; Shibasaki, R",can ais data improve the short-term forecast of weekly dry bulk cargo port throughput?-a machine-learning approach,2023,10.1080/03088839.2023.2212264,,X,,X
+El Mekkaoui S.; Benabbou L.; Berrado A.,deep learning models for vessel’s eta prediction: bulk ports perspective,2023,10.1007/s10696-022-09471-w,X,,,X
+J. Luo; X. Gong; H. Tan; C. Chen; Y. Kang; T. Fu,optimization and exploration of the volume scheduling problem in logistics network,2023,10.1109/ICAISC58445.2023.10200379,,,X,X
+"Galuszka A., Smieja J., Grzejszczak T., Wolak M., Harasny M., Jedrasiak K., Zalwert M., Probierz E.",prediction of ftl transport cost based on historical data and multiple linear regression model,2023,,X,,,X
+Gloria S.M.; Patricia C.O.; Carlos P.V.,human resource optimization using linear regression machine learning model: case study sunat,2023,10.11591/ijeecs.v31.i1.pp386-391,X,,,X
+"Hu, J; Yang, XY; Yan, L; Zhang, QH",a machine learning-based framework for user recruitment in continuous mobile crowdsensing,2023,10.1016/j.adhoc.2023.103175,,X,,X
+"Wang, QZ; Yuan, Y; Zhang, QW; Yang, XFT",estimating intercity heavy truck mobility flows using the deep gravity framework,2023,10.1016/j.tre.2023.103320,X,,,X
+L. Ma; Z. Ou; Y. Zhang; J. Luo; R. Tian,design of decision model of intelligent distribution system of telecom logistics based on neural network optimization genetic algorithm,2023,10.1109/AIARS59518.2023.00050,,,X,X
+"Wang, YZ; Jiang, RH; Liu, HC; Yin, D; Song, X",sequence-graph fusion neural network for user mobile app behavior prediction,2023,10.1007/978-3-031-43427-3_7,,X,,X
+"Al-Jamaan, R; Yklef, M; Alothaim, A",gldm: geo-location prediction of twitter users with deep learning methods,2023,10.3233/JIFS-230518,,X,,X
+"Chaweewanchon, A; Chaysiri, R",prediction intervals: a geometric view,2023,10.3390/sym15040781,,X,,X
+"Nardin, A; Dovis, F; Valsesia, D; Magli, E; Leuzzi, C; Messineo, R; Sobreira, H; Swinden, R",on the use of machine learning algorithms to improve gnss products,2023,10.1109/PLANS53410.2023.10139920,,X,,X
+"Nardin, A; Dovis, F; Valsesia, D; Magli, E; Leuzzi, C; Messineo, R; Sobreira, H; Swinden, R",utilizing the maxent machine learning model to forecast urban heritage sites in the desert regions of southwestern algeria: a case study in the saoura region,2023,10.1002/arp.1923,,X,,X
+S. P. Prakash; N. R. Kumar; J. Vinu; K. Mohanasharan; M. Saabareesh,hybridization methodology for predicting ore from mines to end user using machine learning technique,2023,10.1109/STCR59085.2023.10396891,X,,X,X
+Noorsaman A.; Amrializzia D.; Zulfikri H.; Revitasari R.; Isambert A.,machine learning algorithms for failure prediction model and operational reliability of onshore gas transmission pipelines,2023,10.14716/ijtech.v14i3.6287,X,,,X
+Chakraborty S.; Bandyopadhyay A.; Sthapak S.,"logistic regression for predicting the location of vegetable vendors in the city of raipur, chhattisgarh, india",2023,10.53894/ijirss.v6i4.2123,X,,,X
+A. Stringer; G. Dolinger; T. Sharp; D. Hogue; J. Karch; L. Borowska; J. G. Metcalf,improving predictive navigation through the optimization of counterfactual track evaluation,2023,10.1109/PLANS53410.2023.10140127,,X,X,X
+L. J. M. LeÃ³n; J. L. Herrera; J. Berrocal; J. GalÃ¡n-JimÃ©nez,logistic regression-based solution to predict the transport assistant placement in sdn networks,2023,10.1109/NOMS56928.2023.10154303,X,,X,X
+Sawada T.; Uchino T.; Martono N.P.; Ohwada H.,efficient estimation of cow’s location using machine learning based on sensor data,2023,10.1007/978-3-031-29126-5_7,X,,,X
+Mariappan M.B.; Devi K.; Venkataraman Y.; Lim M.K.; Theivendren P.,"using ai and ml to predict shipment times of therapeutics, diagnostics and vaccines in e-pharmacy supply chains during covid-19 pandemic",2023,10.1108/IJLM-05-2021-0300,X,X,,X
+Chang V.; Xu Q.A.; Hall K.; Oluwaseyi O.T.; Luo J.,comprehensive analysis of uk aadf traffic dataset set within four geographical regions of england,2023,10.1111/exsy.13415,X,,,X
+"Bhowmik, RT; Jung, YS; Aguilera, JA; Prunicki, M; Nadeau, K",a multi-modal wildfire prediction and early-warning system based on a novel machine learning framework,2023,10.1016/j.jenvman.2023.117908,,X,,X
+Gupta S.; Kumar P.; Tekchandani R.,a machine learning-based decision support system for temporal human cognitive state estimation during online education using wearable physiological monitoring devices,2023,10.1016/j.dajour.2023.100280,X,,,X
+"Golsefidi, AH; Hüttel, FB; Peled, I; Samaranayake, S; Pereira, FC",a joint machine learning and optimization approach for incremental expansion of electric vehicle charging infrastructure,2023,10.1016/j.tra.2023.103863,,X,,X
+Subramaniam A.; Rao A.S.; Vajrapu A.; Arya Darshan Roi V.; Vanamala H.R.,real time monitoring of forest fires and wildfire spread prediction,2023,10.1109/ICAAIC56838.2023.10141168,X,,,X
+Kobayashi K.; Kubo N.,rtk availability prediction using a 3d city model and machine learning,2023,10.33012/2023.18672,X,,,X
+M. Zheng; H. Mei; Y. Chao; G. Song; M. Guo; X. Kong; Y. Liu; K. Wang; S. Zhao; X. Chen,mobile network nps analysis based on machine learning,2023,10.1109/ICC59986.2023.10421699,,,X,X
+N. Liu; Z. Zhang; Y. Wu; Y. Wang; Y. Liang,crbsp:prediction of circrna-rbp binding sites based on multimodal intermediate fusion,2023,10.1109/TCBB.2023.3272400,,,X,X
+Kavuri K.; Kavitha M.,a word embeddings based approach for author profiling: gender and age prediction,2023,10.17762/ijritcc.v11i7s.6996,X,,,X
+Arora K.; Ray K.; Ram S.; Mehajan R.,the role of instability indices in forecasting thunderstorm and non-thunderstorm days across six cities in india,2023,10.3390/cli11010014,X,,,X
+S. Vasa; P. Borugadda; A. Koyyada,a machine learning model to predict a diagnosis of brain stroke,2023,10.1109/ICICT57646.2023.10134192,X,,X,X
+"Alotaibi M., Aljehane N.",early prediction of gestational diabetes using machine learning techniques,2023,,X,,,X
+Saad A.M.; Cunha R.D.S.; Barreira R.A.; Tannuri E.A.; Gomi E.S.; Costa A.H.R.,nemo: a multi-draft mooring line failure detection system based on fpso predicted motion,2023,10.1115/OMAE2023-104351,X,,,X
+H. Hadiki; F. S. Hasnaoui; S. Georges,transformers faults prediction using machine learning approach,2023,10.1109/ACTEA58025.2023.10194101,,,X,X
+M. Manikandan; K. R; M. Ramya; V. Aruna; J. J. Babu,a novel methodology design to predict employee attrition by using hybrid learning strategy,2023,10.1109/ICSES60034.2023.10465555,,,X,X
+Suarez L.A.; Robson A.; Brinkhoff J.,early-season forecasting of citrus block-yield using time series remote sensing and machine learning: a case study in australian orchards,2023,10.1016/j.jag.2023.103434,X,,,X
+Tian H.; Sun Y.; Hu F.; Du J.,charging behavior analysis based on operation data of private bev customers in beijing,2023,10.3390/electronics12020373,X,,,X
+Bailoor S.; Seo J.-H.; Dasi L.; Schena S.; Mittal R.,towards longitudinal monitoring of leaflet mobility in prosthetic aortic valves via in-situ pressure sensors: in-silico modeling and analysis,2023,10.1007/s13239-022-00635-1,X,,,X
+Wang X.; Liu X.; Euston T.L.,relationship between track geometry defect occurrence and substructure condition: a case study on one passenger railroad in the united states,2023,10.1016/j.conbuildmat.2022.130066,X,,,X
+L. B. A. Jaques; P. C. Coradi; Ã‰. Lutz; P. E. Teodoro; D. V. Jaeger; A. L. Teixeira,nondestructive technology for real-time monitoring and prediction of soybean quality using machine learning for a bulk transport simulation,2023,10.1109/JSEN.2022.3226168,,,X,X
+Sumathi R.; Sriram G.,"comparison of machine learning models in the prediction of accumulation of heavy metals in the tree species in kanchipuram, tamilnadu",2023,10.46488/NEPT.2023.v22i02.027,X,,,X
+A. D. S. Shamsuddin; M. Kassim; N. P. Abdullah,bandwidth performance analysis and shaping algorithm on metro-e campus network,2023,10.1109/CiSt56084.2023.10409961,,,X,X
+T. N. Canh; X. HoangVan,machine learning-based malicious vehicle detection for security threats and attacks in vehicle ad-hoc network (vanet) communications,2023,10.1109/RIVF60135.2023.10471804,,,X,X
+"Machaka, Pheeha (42761777700); Ajayi, Olasupo (57212544837); Kahenga, Ferdinand (57376431900); Bagula, Antoine (8681723200); Kyamakya, Kyandoghere (15822176300)",modelling ddos attacks in iot networks using machine learning,2023,10.1007/978-3-031-35883-8_11,X,,,X
+Siswanto J.V.; Castilani L.A.; Winata N.H.; Nugraha N.C.; Sagala N.T.M.,salary classification & prediction based on job field and location using ensemble methods,2023,10.1109/ICCoSITE57641.2023.10127828,X,,,X
+V. Crescitelli; T. Oshima,a deep reinforcement learning method for 2d irregular packing with dense reward,2023,10.1109/TransAI60598.2023.00037,X,,X,X
+L. Xiao,soccer robot localization detection model based on monte carlo particle filter and template matching algorithm,2023,10.1109/ACCESS.2023.3332478,,,X,X
+Chaganti P.C.V.; Manitha P.V.; Sailaja V.,nearest charging station identification for ev using machine learning techniques,2023,10.1109/ICEFEET59656.2023.10452177,X,,,X
+Mensouri H.; Azmani A.; Azmani M.,towards an accident severity prediction system with logistic regression,2023,10.1007/978-3-031-26384-2_34,X,,,X
+Purahong B.; Teerapanpong S.; Satayarak N.; Benjangkaprasert C.,comparison of logistic regression and artificial neural network model for apron allocation assignment,2023,10.1088/1742-6596/2497/1/012013,X,,,X
+Mendieta-Aragón A.; Garín-Muñoz T.,consumer behaviour in e-tourism: exploring new applications of machine learning in tourism studies; [comportamiento del consumidor en e-turismo: explorando nuevas aplicaciones del aprendizaje automático en los estudios de turismo],2023,10.14198/INTURI.24629,X,,,X
+"Caraccioli P.D., Mordensky S.P., Lindsey C.R., DeAngelo J., Burns E.R., Lipor J.J.",don't let negatives hold you back: accounting for underlying physics and natural distributions of hydrothermal systems when selecting negative training sites leads to better machine learning predictions,2023,,X,,,X
+"Yamashita, Takehiro (35376986800); Asaoka, Ryo (55901760000); Iwase, Aiko (57205414185); Sakai, Hiroshi (57205718735); Terasaki, Hiroto (56497588700); Sakamoto, Taiji (57219982613); Araie, Makoto (35405732300)",sex determination using color fundus parameters in older adults of kumejima population study,2023,10.1007/s00417-023-06024-1,X,,,X
+Raji S.A.; Akintuyi A.O.; Wunude E.O.; Fashoto B.,a machine learning-based spatial statistical method for modelling different phases of gully development in south-eastern nigeria,2023,10.1016/j.ecoinf.2023.102101,X,,,X
+Şahin C.,predicting base station return on investment in the telecommunications industry: machine-learning approaches,2023,10.1002/isaf.1530,X,,,X
+Ennouali Z.; Fannassi Y.; Lahssini G.; Benmohammadi A.; Masria A.,"mapping coastal vulnerability using machine learning algorithms: a case study at north coastline of sebou estuary, morocco",2023,10.1016/j.rsma.2023.102829,X,,,X
+"Moinuddin, Mohammed (58853456600); Proffer, Logan (58853465900); Vechione, Matthew (57202390887); Khanal, Aaditya (57119540100)",application of machine learning models to predict driver left turn destination lane choice behavior at urban intersections,2024,10.1016/j.ijtst.2023.12.005,X,,,X
+"Hu, J; Yang, XY; Yan, L; Zhang, QH",pedestrian trajectory prediction based on spatio-temporal attention mechanism,2024,10.1007/s13042-023-02093-0,,X,,X
+"Wang, YZ; Jiang, RH; Liu, HC; Yin, D; Song, X",machine learning-based ranking of factors influencing human movement purposes for supporting human-infrastructure interaction modeling,2024,10.1061/9780784485224.015,X,,,X
+"Saleh, Roxan (57477968500); Fleyeh, Hasan (16642844700)","predictive models for road traffic sign: retroreflectivity status, retroreflectivity coefficient, and lifespan",2024,10.1016/j.ijtst.2024.02.008,X,,,X
+"Mukherjee, Bappa (57188743188); Gautam, Param.K. (24166387200); Sain, Kalachand (6603746716)",machine learning assisted crustal velocity proxy: a case study over the tibetan plateau and its surroundings,2024,10.1016/j.jseaes.2023.106004,X,,,X
+"Rinsha, V. (57219986818); Sharma, Vivek Kumar (57654347900); Raj, Nithin (56723720600); Jagadanand, G. (35095318200)",machine learning based open switch fault detection and localization of inverters,2024,10.1142/S0218126624502001,X,,,X
+"Sapakova, Saya (57209294878); Sapakov, Askar (57992057700)",features of modeling the online real estate market in almaty,2024,10.1016/j.procs.2023.12.226,X,,,X
