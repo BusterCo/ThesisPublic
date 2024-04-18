@@ -3,9 +3,9 @@ multi-agent approach to dynamic pick-up and delivery problem with uncertain know
 hybrid adaptive predictive control for a dynamic pickup and delivery problem including traffic congestion;Cortés C.E. and Núñez A. and Sáez D.;2008;Attention direction and Sampling: clustered data
 hybrid adaptive predictive control for a dynamic pickup and delivery problem;Cortés C.E. and Sáez D. and Núñez A. and Muñoz-Carpintero D.;2009;Attention direction and Sampling: distribution
 hierarchical multiobjective model predictive control applied to a dynamic pickup and delivery problem;Núñez A. and De Schutter B. and Sáez D. and Cortés C.E.;2010;Attention direction
-Predicting Driver Deestination using Machine Learning Techniques;Manasseh, C. and Sengupta, R.;2013;ML/AI
+Predicting Driver Deestination using Machine Learning Techniques;Manasseh C. and Sengupta R.;2013;ML/AI
 multiobjective model predictive control for dynamic pickup and delivery problems;Núñez A. and Cortés C.E. and Sáez D. and De Schutter B. and Gendreau M.;2014;Attention direction
-The Value of Inaccurate Advance Time Window Information in a Pick-up and Delivery Problem;Srour, F. Jordan and Agatz, Niels and Oppen, Johan;2014;MSA
+The Value of Inaccurate Advance Time Window Information in a Pick-up and Delivery Problem;Srour F. Jordan and Agatz Niels and Oppen Johan;2014;MSA
 a methodology based on evolutionary algorithms to solve a dynamic pickup and delivery problem under a hybrid predictive control approach;Muñoz-Carpintero D. and Sáez D. and Cortés C.E. and Núñez A.;2015;Attention direction
 the same-day delivery problem for online purchases;Voccia S.A. and Campbell A.M. and Thomas B.W.;2015;Sampling: distribution and Route generation with replacement
 Artificial Neural Networks Applied to Taxi Destination Prediction;Alexandre de Brébisson and Étienne Simon and Alex Auvolat and Pascal Vincent and Yoshua Bengio;2015;ML/AI
@@ -16,19 +16,19 @@ T-CONV: A Convolutional Neural Network For Multi-scale Taxi Trajectory Predictio
 Predicting Destinations from Partial Trajectories Using Recurrent Neural Network;Yuki Endo and Kyosuke Nishida and Hiroyuki Toda and Hiroshi Sawada;2017;ML/AI
 Modeling Taxi Drivers' Behaviour for the Next Destination Prediction;Alberto Rossi and Gianni Barlacchi and Monica Bianchini and Bruno Lepri;2018;ML/AI
 Multi-features taxi destination prediction with frequency domain processing;Lei Zhang and Guoxing Zhang and Zhizheng Liang and Ekene Frank Ozioko;2018;ML/AI
-Dynamic Lookahead Policies for Stochastic-Dynamic Inventory Routing in Bike Sharing Systems;Brinkmann, Jan and Ulmer, Marlin W. and Mattfeld, Dirk C.;2019;Attention direction and Sampling: historic pool
+Dynamic Lookahead Policies for Stochastic-Dynamic Inventory Routing in Bike Sharing Systems;Brinkmann Jan and Ulmer Marlin W. and Mattfeld Dirk C.;2019;Attention direction and Sampling: historic pool
 Revisiting Spatial-Temporal Similarity: A Deep Learning Framework for Traffic Prediction;Huaxiu Yao and Xianfeng Tang and Hua Wei and Guanjie Zheng and Zhenhui Li;2019;ML/AI
 anticipatory vehicle routing for same-day pick-up and delivery using historical data clustering;Lochem J.V. and Kronmueller M. and Hof P.V. and Alonso-Mora J.;2020;Sampling: clustered data and Route generation with replacement
 centralized and decentralized autonomous dispatching strategy for dynamic autonomous taxi operation in hybrid request mode;Duan L. and Wei Y. and Zhang J. and Xia Y.;2020;Sampling: historic pool and Route generation with replacement
-Crowdshipping and Same-day Delivery: Employing In-store Customers to Deliver Online Orders;Dayarian, Iman and Savelsbergh, Martin W. P.;2020;MSA
+Crowdshipping and Same-day Delivery: Employing In-store Customers to Deliver Online Orders;Dayarian Iman and Savelsbergh Martin W. P.;2020;MSA
 learning to optimize industry-scale dynamic pickup and delivery problems;Li X. and Luo W. and Yuan M. and Wang J. and Lu J. and Wang J. and Lu J. and Zeng J.;2021;Attention direction
 a hierarchical reinforcement learning based optimization framework for large-scale dynamic pickup and delivery problems;Ma Y. and Hao X. and Hao J. and Lu J. and Liu X. and Tong X. and Yuan M. and Li Z. and Tang J. and Meng Z.;2021;Attention direction
-Dynamic Rebalancing Optimization for Bike-Sharing System Using Priority-Based MOEA/D Algorithm;Hu, Runqiu and Zhang, Zhizheng and Ma, Xinwei and Jin, Yuchuan;2021;Attention direction
-Anticipatory routing methods for an on-demand ridepooling mobility system;Fielbaum, Andrés and Kronmueller, Maximilian and Alonso-Mora, Javier;2021;Sampling: historic pool and Route generation with replacement
-A Decision Framework to Recommend Cruising Locations for Taxi Drivers under the Constraint of Booking Information;Hsieh, Hsun-Ping and Lin, Fandel and Chen, Nai-Yu and Yang, Tzu-Hsin;2022;ML/AI
-Adaptive forecast-driven repositioning for dynamic ride-sharing;Pouls, Martin and Ahuja, Nitin and Glock, Katharina and Meyer, Anne;2022;Attention direction
+Dynamic Rebalancing Optimization for Bike-Sharing System Using Priority-Based MOEA/D Algorithm;Hu Runqiu and Zhang Zhizheng and Ma Xinwei and Jin Yuchuan;2021;Attention direction
+Anticipatory routing methods for an on-demand ridepooling mobility system;Fielbaum Andrés and Kronmueller Maximilian and Alonso-Mora Javier;2021;Sampling: historic pool and Route generation with replacement
+A Decision Framework to Recommend Cruising Locations for Taxi Drivers under the Constraint of Booking Information;Hsieh Hsun-Ping and Lin Fandel and Chen Nai-Yu and Yang Tzu-Hsin;2022;ML/AI
+Adaptive forecast-driven repositioning for dynamic ride-sharing;Pouls Martin and Ahuja Nitin and Glock Katharina and Meyer Anne;2022;Attention direction
 when routing meets recommendation: solving dynamic order recommendations problem in peer-to-peer logistics platforms;Zhang Z. and Joe W. and Er Y. and Lau H.C.;2023;Attention direction
-Dynamic demand management and online tour planning for same-day delivery;Klein, Vienna and Steinhardt, Claudius;2023;Sampling: historic pool and MSA
-Data-driven customer acceptance for attended home delivery.;Köhler, Charlotte and Campbell, Ann Melissa and Ehmke, Jan Fabian;2023;Sampling and MSA
-Demand management in time-slotted last-mile delivery via dynamic routing with forecast orders;Abdollahi, Mohammad and Yang, Xinan and Nasri, Moncef Ilies and Fairbank, Michael;2023;Sampling: historic pool and MSA and Route generation with replacement
-Combining value function approximation and multiple scenario approach for the effective management of ride-hailing services;Heitmann, R.-Julius O. and Soeffker, Ninja and Ulmer, Marlin W. and Mattfeld, Dirk C.;2023;Sampling: historic pool and MSA
+Dynamic demand management and online tour planning for same-day delivery;Klein Vienna and Steinhardt Claudius;2023;Sampling: historic pool and MSA
+Data-driven customer acceptance for attended home delivery.;Köhler Charlotte and Campbell Ann Melissa and Ehmke Jan Fabian;2023;Sampling and MSA
+Demand management in time-slotted last-mile delivery via dynamic routing with forecast orders;Abdollahi Mohammad and Yang Xinan and Nasri Moncef Ilies and Fairbank Michael;2023;Sampling: historic pool and MSA and Route generation with replacement
+Combining value function approximation and multiple scenario approach for the effective management of ride-hailing services;Heitmann R.-Julius O. and Soeffker Ninja and Ulmer Marlin W. and Mattfeld Dirk C.;2023;Sampling: historic pool and MSA
